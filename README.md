@@ -1,26 +1,38 @@
 # BuiltByWill – FES Mini Project
 
-A simple HTML page built as part of the Frontend Simplified program. This is the very beginning of my frontend journey.
+A simple webpage built from scratch using HTML and CSS as part of the Frontend Simplified program. This project tracks my progression from total beginner to confident developer — and every step matters.
 
 ---
 
 ## 🚧 Project Status
 
-`[█░░░░░░░░░░] 10%` – Basic HTML structure completed. CSS coming soon.
+`[█████░░░░░░] 50%` – HTML structure and core CSS complete. Responsive design coming next.
 
 ---
 
 ## 📁 What This Project Includes
-- `index.html`: core layout and structure
-- Placeholder images and semantic tags
-- First use of `<form>`, `<nav>`, `<header>`, `<section>`, and `<footer>`
+- `index.html`: Complete structural layout
+- `style.css`: Styling with Flexbox, spacing, typography, and color themes
+- Responsive layout structure in progress
+- Sectional design: About, Discord, Contact
+- Basic form setup with inputs and textarea
 
 ---
 
 ## 🧠 Lessons Learned
-- Importance of semantic HTML
-- Structuring sections for real-world sites
-- How early progress matters
+
+### 🧱 HTML (Week 1)
+- Importance of semantic structure
+- Elements like `<form>`, `<nav>`, `<header>`, `<section>`, and `<footer>`
+- Internal linking, asset paths, and hierarchy
+
+### 🎨 CSS (Week 2)
+- Flexbox for layout control
+- Custom fonts with Google Fonts
+- BEM-style class naming for clean organization
+- Visual spacing using padding, margin, line height
+- Section coloring and design rhythm
+- How layout flows affect user experience
 
 ---
 
@@ -35,4 +47,4 @@ GitHub: [github.com/builtbywilldev](https://github.com/builtbywilldev)
 
 ---
 
-> This is just the beginning. Every phase from here builds toward something real.
+> From the first `<div>` to the final breakpoint, this is my evolution — built by will, line by line.
