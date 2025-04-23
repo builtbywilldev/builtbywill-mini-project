@@ -6,14 +6,14 @@ A simple webpage built from scratch using HTML and CSS as part of the Frontend S
 
 ## 🚧 Project Status
 
-`[█████░░░░░░] 50%` – HTML structure and core CSS complete. Responsive design coming next.
+`[███████████] 100%` – this mini project has been completed. I cannot wait to see what I can do in a month!
 
 ---
 
 ## 📁 What This Project Includes
-- `index.html`: Complete structural layout
+- `index.html`: Complete structural layout using semantic HTML
 - `style.css`: Styling with Flexbox, spacing, typography, and color themes
-- Responsive layout structure in progress
+- Media queries for mobile responsiveness
 - Sectional design: About, Discord, Contact
 - Basic form setup with inputs and textarea
 
@@ -22,17 +22,17 @@ A simple webpage built from scratch using HTML and CSS as part of the Frontend S
 ## 🧠 Lessons Learned
 
 ### 🧱 HTML (Week 1)
-- Importance of semantic structure
-- Elements like `<form>`, `<nav>`, `<header>`, `<section>`, and `<footer>`
-- Internal linking, asset paths, and hierarchy
+- Semantic layout using `<header>`, `<section>`, `<nav>`, and `<footer>`
+- Proper use of class names for maintainability
+- Clean separation of structure vs styling
 
 ### 🎨 CSS (Week 2)
-- Flexbox for layout control
-- Custom fonts with Google Fonts
-- BEM-style class naming for clean organization
-- Visual spacing using padding, margin, line height
-- Section coloring and design rhythm
-- How layout flows affect user experience
+- Flexbox for horizontal/vertical centering
+- Typography scaling with `rem`
+- Margin and padding for spatial rhythm
+- BEM-style class naming for cleaner CSS
+- Color schemes for each section
+- Responsive layout using `@media (max-width: 720px)`
 
 ---
 
